@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Lenovo ThinkPad",
+    "precio": 1200,
+    "descripcion": "Laptop profesional con gran rendimiento y durabilidad.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Samsung Galaxy",
+    "precio": 800,
+    "descripcion": "Teléfono inteligente con excelente cámara y pantalla.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:05:00Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Auriculares Bluetooth Sony",
+    "precio": 150,
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:10:00Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor LG 27 pulgadas",
+    "precio": 300,
+    "descripcion": "Monitor Full HD ideal para trabajo y entretenimiento.",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-22T10:15:00Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico Redragon",
+    "precio": 80,
+    "descripcion": "Teclado mecánico retroiluminado para gamers.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:20:00Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Mouse Logitech Inalámbrico",
+    "precio": 40,
+    "descripcion": "Mouse ergonómico con batería de larga duración.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:25:00Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Tablet Apple iPad",
+    "precio": 600,
+    "descripcion": "Tablet potente y versátil para trabajo y ocio.",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-22T10:30:00Z"
+  },
+  {
+    "id": 8,
+    "nombre": "Impresora HP Multifuncional",
+    "precio": 200,
+    "descripcion": "Impresora, escáner y copiadora en un solo equipo.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:35:00Z"
+  },
+  {
+    "id": 9,
+    "nombre": "Disco Duro Externo 2TB",
+    "precio": 120,
+    "descripcion": "Almacenamiento portátil de alta capacidad.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:40:00Z"
+  },
+  {
+    "id": 10,
+    "nombre": "Cámara Canon EOS",
+    "precio": 950,
+    "descripcion": "Cámara réflex digital para fotografía profesional.",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-22T10:45:00Z"
+  },
+  {
+    "id": 11,
+    "nombre": "Smartwatch Xiaomi Mi Band",
+    "precio": 60,
+    "descripcion": "Reloj inteligente con monitor de actividad física.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:50:00Z"
+  },
+  {
+    "id": 12,
+    "nombre": "Bocina Bluetooth JBL",
+    "precio": 90,
+    "descripcion": "Bocina portátil con sonido potente y claro.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T10:55:00Z"
+  },
+  {
+    "id": 13,
+    "nombre": "Silla Gamer Cougar",
+    "precio": 250,
+    "descripcion": "Silla ergonómica diseñada para largas sesiones.",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-22T11:00:00Z"
+  },
+  {
+    "id": 14,
+    "nombre": "Router TP-Link WiFi 6",
+    "precio": 130,
+    "descripcion": "Router de alta velocidad con tecnología WiFi 6.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T11:05:00Z"
+  },
+  {
+    "id": 15,
+    "nombre": "Memoria USB 128GB",
+    "precio": 35,
+    "descripcion": "Memoria portátil de gran capacidad y velocidad.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T11:10:00Z"
+  },
+  {
+    "id": 16,
+    "nombre": "Proyector Epson HD",
+    "precio": 700,
+    "descripcion": "Proyector de alta definición para presentaciones.",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-22T11:15:00Z"
+  },
+  {
+    "id": 17,
+    "nombre": "Cargador Portátil Anker",
+    "precio": 50, 
+    "descripcion": "Batería externa para cargar dispositivos móviles.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T11:20:00Z"
+  },
+  {
+    "id": 18,
+    "nombre": "Webcam Logitech HD",
+    "precio": 70,
+    "descripcion": "Cámara web de alta definición para videollamadas.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T11:25:00Z"
+  },
+  {
+    "id": 19,
+    "nombre": "Microfono Blue Yeti",
+    "precio": 180,
+    "descripcion": "Micrófono profesional para grabaciones y streaming.",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-22T11:30:00Z"
+  },
+  {
+    "id": 20,
+    "nombre": "Lámpara LED Escritorio",
+    "precio": 45,
+    "descripcion": "Lámpara ajustable con luz LED para escritorio.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T11:35:00Z"
+  }
+]

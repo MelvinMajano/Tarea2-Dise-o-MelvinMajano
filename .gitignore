@@ -1,0 +1,5 @@
+/node_modules
+/api.http
+/package-lok.json
+/package.json
+/.gitignore
